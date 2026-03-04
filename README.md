@@ -1,14 +1,10 @@
 # Hello, I'm Cleg Peter
 <a href="https://www.linkedin.com/in/cleg-peter-ovil-201348110/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+NOC Analyst responsible for monitoring, troubleshooting, and maintaining onboard Wi-Fi networks across a fleet of 100+ trains in North America, the UK, and Europe, ensuring network availability through real-time monitoring, incident management, and remote diagnostics
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objective is to grow as a NOC Level 1 Analyst, contributing to network stability through proactive monitoring, timely incident response, and effective first-line troubleshooting. I strive to support high-availability environments by ensuring issues are identified early, properly documented, and escalated when necessary to maintain reliable network services.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
