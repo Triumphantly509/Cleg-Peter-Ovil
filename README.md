@@ -11,7 +11,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Analyzing Ethernet LAN switching          |<a href="https://github.com/Triumphantly509/Analyzing-Ethernet-LAN-switching"> Ethernet LAN Switching analysis </a>.|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
