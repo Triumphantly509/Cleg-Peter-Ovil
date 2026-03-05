@@ -7,7 +7,6 @@ NOC Analyst responsible for monitoring, troubleshooting, and maintaining onboard
 My objective is to grow as a NOC Level 1 Analyst, contributing to network stability through proactive monitoring, timely incident response, and effective first-line troubleshooting. I strive to support high-availability environments by ensuring issues are identified early, properly documented, and escalated when necessary to maintain reliable network services.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
