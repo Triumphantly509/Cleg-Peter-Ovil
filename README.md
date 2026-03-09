@@ -6,7 +6,7 @@ NOC Analyst responsible for monitoring, troubleshooting, and maintaining onboard
 ## Objective
 My objective is to grow as a NOC Level 1 Analyst, contributing to network stability through proactive monitoring, timely incident response, and effective first-line troubleshooting. I strive to support high-availability environments by ensuring issues are identified early, properly documented, and escalated when necessary to maintain reliable network services.
 
-## Skills
+## Networking Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -53,7 +53,3 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
