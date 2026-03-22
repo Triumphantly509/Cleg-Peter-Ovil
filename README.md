@@ -15,7 +15,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring Basic Switch Management |<a href="https://github.com/Triumphantly509/configuring-basic-switch-management"> Configuring basic switch management </a>.|
 | Configuring IPV4 on a switch|<a href="https://github.com/Triumphantly509/Configuring-IPV4-on-a-switch">Configuring IPV4 on a switch </a>.|
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
-| Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
+| Configuring switch interfaces, Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
 
 
 ## Tools
