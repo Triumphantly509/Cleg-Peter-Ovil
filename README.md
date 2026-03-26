@@ -28,11 +28,15 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 - GNS3
 - Wireshark
 - Ssh
+- Telnet
 - Nmap
 - SNPM
 - Jira
 - Service Now
 - Python
+- Fast Api
+- Django Restframework
+- Nornir
 
 ### Network
 <div>
