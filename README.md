@@ -17,17 +17,19 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
 | Configuring switch interfaces, Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
 
-### Telnet connection with Python
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
-
 ### Netconf Yang 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
+
+### 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
+
+
 
 
 
