@@ -7,7 +7,7 @@ NOC Analyst responsible for monitoring, troubleshooting, and maintaining onboard
 ## Objective
 My objective is to grow as a NOC Level 1 Analyst, contributing to network stability through proactive monitoring, timely incident response, and effective first-line troubleshooting. I strive to support high-availability environments by ensuring issues are identified early, properly documented, and escalated when necessary to maintain reliable network services.
 
-## CCNA Networking & Automation Labs
+## CCNA Networking Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -17,21 +17,11 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
 | Configuring switch interfaces, Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
 
-### Netconf Yang 
+## Automation Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
-
-### 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
-
-
-
-
 
 ## Tools
 - Cisco Packet Tracer
