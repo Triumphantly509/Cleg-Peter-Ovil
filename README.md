@@ -38,14 +38,14 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 - Django Restframework
 - Nornir
 
-### Network
+### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNS3-1F6FEB?&style=for-the-badge&logo=gns3&logoColor=white" />
 </div>
 
-### API Frameworl
+### API Framework
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
