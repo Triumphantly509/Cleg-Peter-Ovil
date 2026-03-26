@@ -53,9 +53,8 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 
 ### Ticketing System
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-81B441?&style=for-the-badge&logo=servicenow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />>
 </div>
 
 ## Certifications
