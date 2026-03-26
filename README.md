@@ -21,7 +21,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/Analyzing-Ethernet-LAN-switching">Telnet with Python </a>.|
+| Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
 
 
 
