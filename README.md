@@ -44,7 +44,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
-### Network automation
+### Automation
 <div>
     <img src="https://img.shields.io/badge/-Nornir-FF6F00?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netmiko-4B8BBE?&style=for-the-badge&logo=python&logoColor=white" />
