@@ -23,7 +23,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 |-----------------------------------------------|----------------------------|
 | Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
 
-## Netconf Yang Labs
+### Netconf Yang Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
