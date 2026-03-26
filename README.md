@@ -24,19 +24,6 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/telnet-with-Python">Telnet with Python </a>.|
 
 ## Tools
-- Cisco Packet Tracer
-- GNS3
-- Wireshark
-- Ssh
-- Telnet
-- Nmap
-- SNPM
-- Jira
-- Service Now
-- Python
-- Fast Api
-- Django Restframework
-- Nornir
 
 ### Networking
 <div>
@@ -49,13 +36,22 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 <div>
     <img src="https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?&style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nornir%20Network%20Automation-FF6F00?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### Ticketing System
 <div>
     <img src="https://img.shields.io/badge/-ServiceNow-81B441?&style=for-the-badge&logo=servicenow&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+### Network automation
+<div>
+    <img src="https://img.shields.io/badge/-Nornir-FF6F00?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netmiko-4B8BBE?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Paramiko-306998?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NETCONF-0052CC?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-gRPC-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Certifications
