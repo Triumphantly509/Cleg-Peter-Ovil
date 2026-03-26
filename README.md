@@ -17,6 +17,13 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
 | Configuring switch interfaces, Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
 
+## Network Automation Labs
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Initiate a Telnet connection with Python|<a href="https://github.com/Triumphantly509/Analyzing-Ethernet-LAN-switching">Telnet with Python </a>.|
+
+
 
 ## Tools
 - Cisco Packet Tracer
