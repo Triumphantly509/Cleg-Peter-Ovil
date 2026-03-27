@@ -54,6 +54,11 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
     <img src="https://img.shields.io/badge/-gRPC-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
+### Frontend framework
+<div>
+    <img src="https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-PCEP%20Python%20Certification-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
