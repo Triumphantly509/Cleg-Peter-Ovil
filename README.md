@@ -36,6 +36,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 <div>
     <img src="https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?&style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
 ### Ticketing System
