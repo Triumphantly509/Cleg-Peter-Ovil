@@ -17,6 +17,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
 | Configuring switch interfaces, Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
 | Creating and Assigning Interfaces to VLANs|<a href="https://github.com/Triumphantly509/Creating-and-Assigning-Interfaces-to-VLANs">Creating and Assigning Interfaces to VLANs</a>.|
+| VLAN Trunking configuration|<a href="https://github.com/Triumphantly509/VLAN-Trunking-configuration">VLAN Trunking configuration</a>.|
 
 ## Automation Labs
 
