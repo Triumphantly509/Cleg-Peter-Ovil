@@ -11,6 +11,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| TCP/IP - OSI Model|<a href="https://github.com/Triumphantly509/TCP-IP---OSI-Model"> TCP/IP - OSI Model </a>.|
 | Analyzing Ethernet LAN switching|<a href="https://github.com/Triumphantly509/Analyzing-Ethernet-LAN-switching"> Ethernet LAN Switching analysis </a>.|
 | Configuring Basic Switch Management |<a href="https://github.com/Triumphantly509/configuring-basic-switch-management"> Configuring basic switch management </a>.|
 | Configuring IPV4 on a switch|<a href="https://github.com/Triumphantly509/Configuring-IPV4-on-a-switch">Configuring IPV4 on a switch </a>.|
