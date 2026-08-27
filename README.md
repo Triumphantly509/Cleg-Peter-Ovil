@@ -12,7 +12,8 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | TCP/IP - OSI Model|<a href="https://github.com/Triumphantly509/TCP-IP---OSI-Model"> TCP/IP - OSI Model </a>.|
-| Analyzing Ethernet LAN switching|<a href="https://github.com/Triumphantly509/Analyzing-Ethernet-LAN-switching"> Ethernet LAN Switching analysis </a>.|
+| ARP - MAc-address|<a href="https://github.com/Triumphantly509/ ARP - MAc-address"> ARP - MAc-address </a>.|
+| Voice vlan configuration|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Voice vlan configuration</a>.|
 | Configuring Basic Switch Management |<a href="https://github.com/Triumphantly509/configuring-basic-switch-management"> Configuring basic switch management </a>.|
 | Configuring IPV4 on a switch|<a href="https://github.com/Triumphantly509/Configuring-IPV4-on-a-switch">Configuring IPV4 on a switch </a>.|
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
