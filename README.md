@@ -22,7 +22,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Voice vlan configuration|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Voice vlan configuration</a>.|
 | Configuring data, voice, management, native and blackhole VLANS|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Configuring data, voice, management, native and blackhole VLANS</a>.|
 | Configuring Traditional INTER-VLAN  Routing |<a href="https://github.com/Triumphantly509/Traditional-inter-vlan-routing">Configuring Traditional INTER-VLAN  Routing</a>.|
-| Router-on-a-Stickg /traffic between multiple VLANs. |<a href="https://github.com/Triumphantly509/Router-on-a-Stick-traffic-between-multiple-VLANs.">Router-on-a-Stickg /traffic between multiple VLANs.|
+| Router-on-a-Stick /traffic between multiple VLANs. |<a href="https://github.com/Triumphantly509/Router-on-a-Stick-traffic-between-multiple-VLANs.">Router-on-a-Stick /traffic between multiple VLANs.|
 
 
 ## Automation Labs
