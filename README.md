@@ -19,7 +19,6 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring switch interfaces, Speed, duplex, description|<a href="https://github.com/Triumphantly509/speed-duplex-description">Configuring switch interfaces, Speed, duplex, description</a>.|
 | Creating and Assigning Interfaces to VLANs|<a href="https://github.com/Triumphantly509/Creating-and-Assigning-Interfaces-to-VLANs">Creating and Assigning Interfaces to VLANs</a>.|
 | VLAN Trunking configuration|<a href="https://github.com/Triumphantly509/VLAN-Trunking-configuration">VLAN Trunking configuration</a>.|
-| Voice vlan configuration|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Voice vlan configuration</a>.|
 | Configuring data, voice, management, native and blackhole VLANS|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Configuring data, voice, management, native and blackhole VLANS</a>.|
 | Configuring Traditional INTER-VLAN  Routing |<a href="https://github.com/Triumphantly509/Traditional-inter-vlan-routing">Configuring Traditional INTER-VLAN  Routing</a>.|
 | Router-on-a-Stick /traffic between multiple VLANs. |<a href="https://github.com/Triumphantly509/Router-on-a-Stick-traffic-between-multiple-VLANs.">Router-on-a-Stick /traffic between multiple VLANs.|
