@@ -13,8 +13,6 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 |-----------------------------------------------|----------------------------|
 | TCP/IP - OSI Model|<a href="https://github.com/Triumphantly509/TCP-IP---OSI-Model"> TCP/IP - OSI Model </a>.|
 | ARP - MAc-address|<a href="https://github.com/Triumphantly509/Arp-mac-address"> ARP - MAc-address </a>.|
-| Configuring data, voice, management, native and blackhole VLANS|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Configuring data, voice, management, native and blackhole VLANS</a>.|
-| Configuring Traditional INTER-VLAN  Routing |<a href="https://github.com/Triumphantly509/Traditional-inter-vlan-routing">Configuring Traditional INTER-VLAN  Routing</a>.|
 | Configuring Basic Switch Management |<a href="https://github.com/Triumphantly509/configuring-basic-switch-management"> Configuring basic switch management </a>.|
 | Configuring IPV4 on a switch|<a href="https://github.com/Triumphantly509/Configuring-IPV4-on-a-switch">Configuring IPV4 on a switch </a>.|
 | Configuring a switch to learn its IP address with DHCP |<a href="https://github.com/Triumphantly509/Configuring-a-switch-to-learn-its-IP-address-with-DHCP"> Configuring a switch to learn its IP address with DHCP </a>.|
@@ -22,6 +20,9 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Creating and Assigning Interfaces to VLANs|<a href="https://github.com/Triumphantly509/Creating-and-Assigning-Interfaces-to-VLANs">Creating and Assigning Interfaces to VLANs</a>.|
 | VLAN Trunking configuration|<a href="https://github.com/Triumphantly509/VLAN-Trunking-configuration">VLAN Trunking configuration</a>.|
 | Voice vlan configuration|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Voice vlan configuration</a>.|
+| Configuring data, voice, management, native and blackhole VLANS|<a href="https://github.com/Triumphantly509/VOIP-vlan-configuration">Configuring data, voice, management, native and blackhole VLANS</a>.|
+| Configuring Traditional INTER-VLAN  Routing |<a href="https://github.com/Triumphantly509/Traditional-inter-vlan-routing">Configuring Traditional INTER-VLAN  Routing</a>.|
+| Router-on-a-Stickg /traffic between multiple VLANs. |<a href="https://github.com/Triumphantly509/Router-on-a-Stick-traffic-between-multiple-VLANs.">Router-on-a-Stickg /traffic between multiple VLANs.|
 
 
 ## Automation Labs
