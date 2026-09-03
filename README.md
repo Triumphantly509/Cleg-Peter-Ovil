@@ -23,6 +23,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Configuring Traditional INTER-VLAN  Routing |<a href="https://github.com/Triumphantly509/Traditional-inter-vlan-routing">Configuring Traditional INTER-VLAN  Routing</a>.|
 | Router-on-a-Stick /traffic between multiple VLANs. |<a href="https://github.com/Triumphantly509/Router-on-a-Stick-traffic-between-multiple-VLANs.">Router-on-a-Stick /traffic between multiple VLANs.|
 |SVI-inter-VLAN-routing |<a href="https://github.com/Triumphantly509/SVI-Inter-VLAN-routing">SVI-inter-VLAN-routing|
+|VTP (VLAN Trunking Protocol) |<a href="https://github.com/Triumphantly509/VTP-VLAN-Trunking-Protocol-">VTP (VLAN Trunking Protocol)|
 
 
 
