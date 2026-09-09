@@ -24,6 +24,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 | Router-on-a-Stick /traffic between multiple VLANs. |<a href="https://github.com/Triumphantly509/Router-on-a-Stick-traffic-between-multiple-VLANs.">Router-on-a-Stick /traffic between multiple VLANs.|
 |SVI-inter-VLAN-routing |<a href="https://github.com/Triumphantly509/SVI-Inter-VLAN-routing">SVI-inter-VLAN-routing|
 |VTP (VLAN Trunking Protocol) |<a href="https://github.com/Triumphantly509/VTP-VLAN-Trunking-Protocol-">VTP (VLAN Trunking Protocol)|
+|EtherChannel Layer |<a href="https://github.com/Triumphantly509/EtherChannel-layer-2-and-3">EtherChannel Lay2|
 |EtherChannel Layer 2 and 3 |<a href="https://github.com/Triumphantly509/EtherChannel-layer-2-and-3">EtherChannel Layer 2 and 3|
 
 
