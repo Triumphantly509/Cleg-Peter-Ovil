@@ -25,7 +25,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 |SVI-inter-VLAN-routing |<a href="https://github.com/Triumphantly509/SVI-Inter-VLAN-routing">SVI-inter-VLAN-routing|
 |VTP (VLAN Trunking Protocol) |<a href="https://github.com/Triumphantly509/VTP-VLAN-Trunking-Protocol-">VTP (VLAN Trunking Protocol)|
 |EtherChannel Layer |<a href="https://github.com/Triumphantly509/Etherchannel-layer-2">EtherChannel Lay2|
-|EtherChannel Layer 2 and 3 |<a href="https://github.com/Triumphantly509/EtherChannel-layer-2-and-3">EtherChannel Layer 2 and 3|
+|EtherChannel Layer 3 |<a href="https://github.com/Triumphantly509/EtherChannel-layer-2-and-3">EtherChannel Layer 2 and 3|
 |Understanding STP(PortFast, BPDU Guard, Loop Guard |<a href="https://github.com/Triumphantly509/Understanding-STP-PortFast-BPDU-Guard-Loop-Guard">Understanding STP(PortFast, BPDU Guard, Loop Guard|
 
 
