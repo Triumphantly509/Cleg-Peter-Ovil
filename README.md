@@ -28,7 +28,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 |EtherChannel Layer 3 |<a href="https://github.com/Triumphantly509/EtherChannel-layer-2-and-3">EtherChannel Layer 3|
 |Understanding STP(PortFast, BPDU Guard, Loop Guard |<a href="https://github.com/Triumphantly509/Understanding-STP-PortFast-BPDU-Guard-Loop-Guard">Understanding STP(PortFast, BPDU Guard, Loop Guard|
 Lab - inter vlan, root bridge, etherchannel, native, blackhole vlans, portfast,bpdu guard, rootguard, port security |<a href="https://github.com/Triumphantly509/lab-all-the-basics">Lab - inter vlan, root bridge, etherchannel, native, blackhole vlans, portfast,bpdu guard, rootguard, port security|
-|Dynamic Routing Protocols - RIP - OSPF - EIGRP - BGP|<a href="https://github.com/Triumphantly509/dynamic-routing-protocols">Dynamic Routing Protocols - RIP - OSPF - EIGRP - BGP|
+|Static / Dynamic Routing Protocols - RIP - OSPF - EIGRP - BGP|<a href="https://github.com/Triumphantly509/dynamic-routing-protocols">Static / Dynamic Routing Protocols - RIP - OSPF - EIGRP - BGP|
 
 
 
