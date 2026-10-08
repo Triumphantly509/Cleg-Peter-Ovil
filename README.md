@@ -7,7 +7,7 @@ NOC Analyst responsible for monitoring, troubleshooting, and maintaining onboard
 ## Objective
 My objective is to grow as a NOC Level 1 Analyst, contributing to network stability through proactive monitoring, timely incident response, and effective first-line troubleshooting. I strive to support high-availability environments by ensuring issues are identified early, properly documented, and escalated when necessary to maintain reliable network services.
 
-## CCNA Networking Labs
+## CCNA 200-301 Networking Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
