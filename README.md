@@ -30,6 +30,7 @@ My objective is to grow as a NOC Level 1 Analyst, contributing to network stabil
 Lab - inter vlan, root bridge, etherchannel, native, blackhole vlans, portfast,bpdu guard, rootguard, port security |<a href="https://github.com/Triumphantly509/lab-all-the-basics">Lab - inter vlan, root bridge, etherchannel, native, blackhole vlans, portfast,bpdu guard, rootguard, port security|
 |Static / Dynamic Routing Protocols - RIP - OSPF - EIGRP - BGP|<a href="https://github.com/Triumphantly509/dynamic-routing-protocols">Static / Dynamic Routing Protocols - RIP - OSPF - EIGRP - BGP|
 |Lab - HSRP - VLAN - Device Hardening - SSH |<a href="https://github.com/Triumphantly509/Lab---HSRP---VLAN---Device-Hardening---SSH"> Lab - HSRP - VLAN - Device Hardening - SSH|
+|DHCP - DHCP RELAY - WEB- -DNS - EMAIL - TFTP - FTP |<a href="https://github.com/Triumphantly509/DHCP---DHCP-RELAY---WEB---DNS---EMAIL---TFTP---FTP">DHCP - DHCP RELAY - WEB- -DNS - EMAIL - TFTP - FTP|
 
 
 
